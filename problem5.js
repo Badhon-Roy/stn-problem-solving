@@ -1,4 +1,4 @@
-// Task no 06: Unique Values
+// Task no 08: Unique Values
 
 // Step 1: Create an array with duplicate values
 const numbers = [4, 7, 2, 4, 9, 2, 7, 1, 6, 9];
